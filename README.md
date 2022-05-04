@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# How to Build Counter App with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+| No. | Topics                                    |
+| --- | ----------------------------------------- |
+| 1   | [About Code Courses](#about-code-courses) |
+| 2   | [Live Demo](#live-demo)                   |
+| 3   | [Screenshot](#screenshot)                 |
+| 4   | [Technologies](#technologies)             |
+| 5   | [Running the demo](#running-the-demo)     |
+| 6   | [Useful links](#useful-links)             |
 
-In the project directory, you can run:
+<a id="about-code-courses"></a>
 
-### `npm start`
+## 1. About Code Courses
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[Code Courses](https://codecourses.site) is a website where people learn about coding and different technologies/frameworks/libraries. For the purpose of helping people learn, all of the courses are **FREE** and **DETAIL**. For this reason, Code Courses believe that you do not need to buy any courses out there. Hopefully, after following the content on Code Courses, you will find your dream jobs, and build any applications that you want.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<a id="live-demo"></a>
 
-### `npm test`
+## 2. Live Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- For the full course, You can refer to this [link]().
 
-### `npm run build`
+- You can refer to this [Youtube video]() for the live demo.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a id="screenshot"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 3. Screenshot
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![](./screenshots/screenshot.png)
 
-### `npm run eject`
+<a id="technologies"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 4. Technologies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This demo uses React.js
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<a id="running-the-demo"></a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Running the demo
 
-## Learn More
+To run the demo follow these steps:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```sh
+    npm install
+    npm run start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Questions about running the demo? [Open an issue](https://github.com/codecourses-site/counter-app/issues). We're here to help ✌️
 
-### Code Splitting
+<a id="useful-links"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Useful links
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 🔷 [React.js](https://reactjs.org/)
